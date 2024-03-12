@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - FallDectector
+  - Weak Point
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2575245431
+    locked: 0
+  - name: Ropes
+    uniqueID: 4254217725
+    locked: 0
+  - name: Player
+    uniqueID: 2901253593
+    locked: 0
+  - name: Midground
+    uniqueID: 3598425089
+    locked: 0
+  - name: Details
+    uniqueID: 2704345337
+    locked: 0
